@@ -5,47 +5,37 @@ Software Engineer at 360Brains
 
 A little more about me...
 
-🐱 My Github Data
-
-    📦 202.8 kB Used in Github's Storage
-
-    💼 Opted to Hire
-
-    📜 0 Public Repositories
-
-    🔑 17 Private Repositories
-
-const rehab = {
-    pronouns: "He" | "Him",
-    code: [
-    "Javascript","Jquery", "PHP", "Bootstrap"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    skillHighlights : [
-      "Project management",
-      "Version control (GIT)",
-      "Strong decision maker",
-      "Creative design",
-      "MVC Design Pattern",
-      "MVC Design Pattern",
-      "Debugging",
-      "Service-focused",
-      "Database Design"
-    ]
-    technologies: {
-        backEnd: {
-            php: ["Laravel", "CodeIgniter", "Core php", "Ajax"],
-        },
-        frontEnd: {
-            native: ["Boostrap", "ReactJs", "VueJs"]
-        },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "Parse Server", "Back4app"],
-        misc: ["Firebase", "php"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Full stack developer",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+        const rehab = {
+            pronouns: "He" | "Him",
+            code: [
+            "Javascript","Jquery", "PHP", "Bootstrap"],
+            askMeAbout: ["web dev", "tech", "app dev", "photography"],
+            skillHighlights : [
+              "Project management",
+              "Version control (GIT)",
+              "Strong decision maker",
+              "Creative design",
+              "MVC Design Pattern",
+              "MVC Design Pattern",
+              "Debugging",
+              "Service-focused",
+              "Database Design"
+            ]
+            technologies: {
+                backEnd: {
+                    php: ["Laravel", "CodeIgniter", "Core php", "Ajax"],
+                },
+                frontEnd: {
+                    native: ["Boostrap", "ReactJs", "VueJs"]
+                },
+                devOps: ["AWS", "Docker🐳", "Nginx"],
+                databases: ["mongo", "MySql", "sqlite", "Parse Server", "Back4app"],
+                misc: ["Firebase", "php"]
+            },
+            architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+            currentFocus: "Full stack developer",
+            funFact: "There are two ways to write error-free programs; only the third one works"
+        };
 
 
 🐱 My Github Data
