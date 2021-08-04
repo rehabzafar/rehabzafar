@@ -5,6 +5,16 @@ Software Engineer at 360Brains
 
 A little more about me...
 
+🐱 My Github Data
+
+    📦 202.8 kB Used in Github's Storage
+
+    💼 Opted to Hire
+
+    📜 0 Public Repositories
+
+    🔑 17 Private Repositories
+
 const rehab = {
     pronouns: "He" | "Him",
     code: [
