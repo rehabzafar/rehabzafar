@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 Hello 🙏🏻, I'm Rehab Zafar!
 
 Software Engineer at 360Brains
@@ -100,3 +101,4 @@ JavaScript               6 repos             ███░░░░░░░░�
 CodeIgniter              4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
 Lumen                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
 
+<!--END_SECTION:waka-->
