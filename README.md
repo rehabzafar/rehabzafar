@@ -43,24 +43,7 @@
     </div>
     <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="max-width:100%;" width="60"></a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji></em></p>
     <hr>
-
-    <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f2f2a276dff9469acf271f906ebe80e71d46c15cb60bfbccedb2f1586f237f7b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f50726f66696c6525323056696577732d3935332d626c7565"><img src="https://camo.githubusercontent.com/f2f2a276dff9469acf271f906ebe80e71d46c15cb60bfbccedb2f1586f237f7b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f50726f66696c6525323056696577732d3935332d626c7565" alt="Profile Views" data-canonical-src="http://img.shields.io/badge/Profile%20Views-953-blue" style="max-width:100%;"></a></p>
-    <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/427a43dd86b23422b2cf5f6d39ab63c0242415b1151a3b21bfebad8dafafab38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6d25323048656c6c6f253230576f726c642532304925323776652532305772697474656e2d3837343539392532306c696e65732532306f66253230636f64652d626c7565"><img src="https://camo.githubusercontent.com/427a43dd86b23422b2cf5f6d39ab63c0242415b1151a3b21bfebad8dafafab38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6d25323048656c6c6f253230576f726c642532304925323776652532305772697474656e2d3837343539392532306c696e65732532306f66253230636f64652d626c7565" alt="Lines of code" data-canonical-src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874599%20lines%20of%20code-blue" style="max-width:100%;"></a></p>
-    <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My Github Data</strong></p>
-    <blockquote>
-        <p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 164 Contributions in the Year 2021</p>
-        <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 202.8 kB Used in Github's Storage</p>
-        <p><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Opted to Hire</p>
-        <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 30 Public Repositories</p>
-        <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> 16 Private Repositories</p>
-    </blockquote>
-    <p><strong>I'm an Early <g-emoji class="g-emoji" alias="baby_chick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png">🐤</g-emoji></strong></p>
-    <div class="snippet-clipboard-content position-relative"><pre lang="text"><code>🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76%
-🌆 Daytime    170 commits    █████████░░░░░░░░░░░░░░░░   39.44%
-🌃 Evening    139 commits    ████████░░░░░░░░░░░░░░░░░   32.25%
-🌙 Night      67 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55%
-
-</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<div class="zeroclipboard-container position-absolute right-0 top-0">
             <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76%
 🌆 Daytime    170 commits    █████████░░░░░░░░░░░░░░░░   39.44%
 🌃 Evening    139 commits    ████████░░░░░░░░░░░░░░░░░   32.25%
