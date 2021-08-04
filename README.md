@@ -82,9 +82,7 @@ Java                     4 repos             ██░░░░░░░░░�
 Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
 
 </code></pre>
-    <p><strong>Timeline</strong></p>
-    <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png"><img src="https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png" alt="Chart not found" style="max-width:100%;"></a></p>
-    <p>Last Updated on 03/08/2021</p>
+    </div>
+    </div>
 
-    <p><strong>These Readme stats are generated using github action <a href="https://github.com/anmol098/waka-readme-stats">awesome-readme-stats</a></strong></p>
 </article>
