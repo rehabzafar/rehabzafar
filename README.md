@@ -55,7 +55,7 @@ Sunday       105 commits    ██████░░░░░░░░░░░�
 </code></pre>
     </div>
     <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
-    <div class="snippet-clipboard-content position-relative"><pre lang="text"><code>⌚︎ Time Zone: Asia/Kolkata
+    <div class="snippet-clipboard-content position-relative"><pre lang="text"><code>⌚︎ Time Zone: Asia/karachi
 
 💬 Programming Languages:
 PHP                      2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.74%
