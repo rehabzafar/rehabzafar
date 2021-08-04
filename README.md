@@ -39,48 +39,8 @@
         currentFocus: "Full stack developer",
         funFact: "There are two ways to write error-free programs; only the third one works"
     };
-</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-            <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="    const rehab = {
-        pronouns: &quot;He&quot; | &quot;Him&quot;,
-        code: [
-        &quot;Javascript&quot;,&quot;Jquery&quot;, &quot;PHP&quot;, &quot;Bootstrap&quot;],
-        askMeAbout: [&quot;web dev&quot;, &quot;tech&quot;, &quot;app dev&quot;, &quot;photography&quot;],
-        skillHighlights : [
-          &quot;Project management&quot;,
-          &quot;Version control (GIT)&quot;,
-          &quot;Strong decision maker&quot;,
-          &quot;Creative design&quot;,
-          &quot;MVC Design Pattern&quot;,
-          &quot;MVC Design Pattern&quot;,
-          &quot;Debugging&quot;,
-          &quot;Service-focused&quot;,
-          &quot;Database Design&quot;
-        ]
-        technologies: {
-            backEnd: {
-                php: [&quot;Laravel&quot;, &quot;CodeIgniter&quot;, &quot;Core php&quot;, &quot;Ajax&quot;],
-            },
-            frontEnd: {
-                native: [&quot;Boostrap&quot;, &quot;ReactJs&quot;, &quot;VueJs&quot;]
-            },
-            devOps: [&quot;AWS&quot;, &quot;Docker🐳&quot;, &quot;Nginx&quot;],
-            databases: [&quot;mongo&quot;, &quot;MySql&quot;, &quot;sqlite&quot;, &quot;Parse Server&quot;, &quot;Back4app&quot;],
-            misc: [&quot;Firebase&quot;, &quot;php&quot;]
-        },
-        architecture: [&quot;Serverless Architecture&quot;, &quot;Progressive web applications&quot;, &quot;Single page applications&quot;],
-        currentFocus: &quot;Full stack developer&quot;,
-        funFact: &quot;There are two ways to write error-free programs; only the third one works&quot;
-    };
-" tabindex="0" role="button">
-                <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-clippy js-clipboard-clippy-icon m-2">
-                    <path fill-rule="evenodd" d="M5.75 1a.75.75 0 00-.75.75v3c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-3a.75.75 0 00-.75-.75h-4.5zm.75 3V2.5h3V4h-3zm-2.874-.467a.75.75 0 00-.752-1.298A1.75 1.75 0 002 3.75v9.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 13.25v-9.5a1.75 1.75 0 00-.874-1.515.75.75 0 10-.752 1.298.25.25 0 01.126.217v9.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-9.5a.25.25 0 01.126-.217z"></path>
-                </svg>
-                <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check js-clipboard-check-icon color-text-success d-none m-2">
-                    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-                </svg>
-            </clipboard-copy>
-        </div>
-    </div>          
+</code></pre>
+    </div>
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="const anmol = {
     pronouns: &quot;He&quot; | &quot;Him&quot;,
     code: [&quot;Javascript&quot;, &quot;Python&quot;, &quot;Java&quot;, &quot;Swift&quot;, &quot;PHP&quot;],
@@ -108,7 +68,7 @@
                     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
                 </svg>
             </clipboard-copy>
-    
+
     <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="max-width:100%;" width="60"></a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji></em></p>
     <hr>
 
